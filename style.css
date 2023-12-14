@@ -1,0 +1,24 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+fieldset h3{
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+fieldset{
+    font-size: 40px;
+}
+fieldset form label{
+    font-size: 18px;
+}
+button {
+    position: relative;
+    left: 32%;
+
+}
